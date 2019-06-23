@@ -1,2 +1,2 @@
 # hcltrainingrepo
-repository for training
+repository for training spring boot
